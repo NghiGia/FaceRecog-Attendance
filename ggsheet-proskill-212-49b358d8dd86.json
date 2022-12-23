@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ggsheet-proskill-212",
+  "private_key_id": "49b358d8dd86884c346675a178e38cae5be599e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnZBxj2oyclsnR\nLSA8wgSeIVny4ghljLoV6HGz2IkeuoZeloQLLR84PeVjMU9IM7FKACsvVvRwMaVV\nRD7HT0zAx4fbeIMmN4GF+owd97LUCXdnqDCvu0inz9bNcOyaUdjt32p4ohoiu0oI\n31VV/AVVKiF5uapw10dzimHzDy5kl5w+96CYGBpE86lup01T8XxQgQbHkcQCId7j\n06EnpfQsZDsBbrr/QxAae6dl0Ck+7NZokmtNutrCb3O2T6aPc/zmRcrJl8jP5+P9\nSQ8m64hxhBgFNSFGpGNCbkbdkHztNrLGzL+HIFBv0xvrBeX/m+z1KZheXj/kUOQi\nzl2cYQMDAgMBAAECggEAGcC8oChsyejGYW+CTQDS/r57glrB0HuPIm0Sao/JAxCD\nb/eUjqHg/aN16kpMpp6KNtA5/jTRU8NSwWCtFAWxZytN5ZFOF2zKD51JBvTQhGTh\nUzoW4RgZCARLxeWxj6NYX3EkKnTwL7lkjgQ9PSqldUsRGrkdTR3IqAVYzXJ9GVjI\nLnnAc+iXPIb7L/XxC9rK2pT4UJr78IINjLtD2OqRqj6mig5cWjrUmxcYpFGe4WYQ\npZAXoTmJlbtFJTU3BEQ+6kqOuzQQjUoRXsYwMoRZJoNaJo4m54Rb4tZDOyYRaBiY\nGmJHoIflMXYgFSZEFiZA53vnFdJarZZLyuxI8bLC0QKBgQD24FApnlPA6Epigayl\nwNUFkXqiFbbMVaYlBRO4OiiYcmcNmN8I8yGgR09AmiIbvB34CYWNDMIoprgZdf0T\n9mjR5yDJD3SZcOvPynP24FuZp6y3Zc47JLWQNmV66wvsZAs8epyWbcgjiLyA5NsZ\nI8sOCv5yDoWFXWxXvT2xK87o5wKBgQDv8UsOU8pGgrL5U9hLRprKFtg+dBvO6JH5\nyjllhFLMyBZHkPY8T2fiCNAI5UqvahD9jQB42LD/oPxksYivU12+4MTN3JM5bnnY\nOQZoV8+ca3tmK9nTnN6hYJ0dmrqYUlkC7vTGhGh4YnG7+ImFCPBr3/ZF6MASn5Et\nzT1tZ86FhQKBgQC6ftGP3w8eF1y59YPa40UJI9EkSIsC6WDNbnxrG2Q3ZZT77JPw\nStsIHVZ9UvKZSQ7KpUbCOvUhiHBiq4M3ZVnh11wpBwfqMiexnRrlUK9h8AzFrp6Q\nhzaxbqZSqOUk+p6SXX2VFfGvBkiAhmINJ8DpJtz4hIfRK7YAwfCsuo9f2QKBgBnt\nrzirIU6hTQnYX6UyygNQmKmXDnI7e5rMmYs402HBtXaiWZmG0yj/3ss3S+zMv21G\n0Wg9slLNaLjQ3n5juduomlvMnDQ2lgAhmWmpI4w5qSoPTwipCP3TXOcYE1XmgCvq\n+pSBNnDb4oJ3hxTTNHfTyd8gGbFpgNy8MwkhkJWpAoGBAKivnBVykaJ0TIV/4Phv\nYuQOFwDkzcyb5RoLq76KgtwtpoWgqQVznnvX0rQob42Ar1dpDNuo6L6Iw1qkI/CY\nD7Hd1qYi3/0vA5PZD8SbyfT5ZNZrrYg7m8lVSNY+6VK2jcvLNkXXlGEUgOwNV4T5\nQHtlkSDhCcQR0CoEj/b4QI4I\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonwriteggsheet@ggsheet-proskill-212.iam.gserviceaccount.com",
+  "client_id": "114713620527876563807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonwriteggsheet%40ggsheet-proskill-212.iam.gserviceaccount.com"
+}
